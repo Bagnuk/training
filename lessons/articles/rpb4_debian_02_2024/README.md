@@ -110,7 +110,7 @@ sudo dpkg -i os-agent_1.6.0_linux_aarch64.deb
 :white_check_mark: [Последний релиз](https://github.com/home-assistant/supervised-installer/releases) (при необходимости, в команде ниже номер меняем на актуальный)    
 Загружаем - 
 ```yaml
-wget https://github.com/home-assistant/supervised-installer/releases/download/1.6.0/homeassistant-supervised.deb
+wget https://github.com/home-assistant/supervised-installer/releases/download/1.8.0/homeassistant-supervised.deb
 ```
 Установка - 
 ```yaml
